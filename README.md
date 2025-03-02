@@ -1,4 +1,4 @@
 # Week-1
-Loading dataset and a Data Dictionary 
-Creating reports using the given data 
-Mainly creating a sustainable supply chain from given data 
+Loading dataset and a Data Dictionary<br>
+Creating reports using the given data<br>
+Mainly creating a sustainable supply chain from given data<br>
